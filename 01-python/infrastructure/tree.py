@@ -1,5 +1,5 @@
 def draw_tree(n = 1):
-    fori in number:
+    for i in number:
         print("tree :")
         print("   ◢◣  ")
         print("  ◢■■◣ ")
